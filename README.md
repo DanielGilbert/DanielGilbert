@@ -18,5 +18,5 @@ Besides writing consumer applications, I'm also interested in game programming, 
 [![Twitter](https://img.shields.io/badge/Twitter-@AdmiralVanTweet-blue?style=flat-square&logo=twitter)](https://twitter.com/AdmiralVanTweet)
 [![Reddit](https://img.shields.io/badge/Reddit-@AdmiralVanGilbert-FF4500?style=flat-square&logo=reddit)](https://reddit.com/u/AdmiralVanGilbert)
 [![Mastodon](https://img.shields.io/badge/Mastodon-@daniel-6364FF?style=flat-square&logo=mastodon)](https://social.g5t.de/@daniel)
-[![HackerNews](https://img.shields.io/badge/HackerNews-@MrGilbert-FF6600?style=flat-square&logo=ycombinator)](https://news.ycombinator.com/MrGilbert)
+[![HackerNews](https://img.shields.io/badge/HackerNews-@MrGilbert-FF6600?style=flat-square&logo=ycombinator)](https://news.ycombinator.com/user?id=MrGilbert)
 [![Instagram](https://img.shields.io/badge/Instagram-@mrvongilbert-E4405F?style=flat-square&logo=instagram)](https://instagram.com/mrvongilbert)
