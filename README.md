@@ -17,7 +17,7 @@ Besides writing consumer applications, I'm also interested in game programming, 
 - [SmallTune](https://github.com/DanielGilbert/SmallTune): My very first media player I wrote in 2008.
 
 ## 🌍 Socials
-[![Twitter](https://img.shields.io/badge/Twitter-@AdmiralVanTweet-blue?style=flat-square&logo=twitter)](https://twitter.com/AdmiralVanTweet)
+[![Bluesky](https://img.shields.io/badge/Bluesky-@HerrGilbert-blue?style=flat-square&logo=bluesky)](https://bsky.app/profile/herrgilbert.bsky.social)
 [![Reddit](https://img.shields.io/badge/Reddit-@AdmiralVanGilbert-FF4500?style=flat-square&logo=reddit)](https://reddit.com/u/AdmiralVanGilbert)
 [![Mastodon](https://img.shields.io/badge/Mastodon-@daniel-6364FF?style=flat-square&logo=mastodon)](https://social.g5t.de/@daniel)
 [![HackerNews](https://img.shields.io/badge/HackerNews-@MrGilbert-FF6600?style=flat-square&logo=ycombinator)](https://news.ycombinator.com/user?id=MrGilbert)
