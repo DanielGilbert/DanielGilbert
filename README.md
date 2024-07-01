@@ -16,6 +16,5 @@ Besides writing consumer applications, I'm also interested in game programming, 
 - [CommonAlertingServer](https://github.com/DanielGilbert/CommonAlertingServer): A small server, that aims to provide a unified REST Api to CAP services around the world. Currently, only DWD warnings are implemented.
 - [SmallTune](https://github.com/DanielGilbert/SmallTune): My very first media player I wrote in 2008.
 
-## 🌍 Socials
-[![Reddit](https://img.shields.io/badge/Reddit-@AdmiralVanGilbert-FF4500?style=flat-square&logo=reddit)](https://reddit.com/u/AdmiralVanGilbert)
+## 🌍 Dev Socials
 [![HackerNews](https://img.shields.io/badge/HackerNews-@MrGilbert-FF6600?style=flat-square&logo=ycombinator)](https://news.ycombinator.com/user?id=MrGilbert)
