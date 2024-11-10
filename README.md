@@ -8,6 +8,7 @@ Besides writing consumer applications, I'm also interested in game programming, 
 
 ## 📂 Projects
 
+- [Sparky](https://github.com/DanielGilbert/Sparky): A friendly desk companion
 - [7D Mad Rogue Kart](https://strangepeoplegames.itch.io/7d-mad-rogue-kart): My very first game and submission to the 7DRL 2023
 - [Radia](https://github.com/DanielGilbert/Radia): Radia is a directory listing server on steroids
     - [g5t.de](https://github.com/DanielGilbert/g5t.de): The repository for my private website
