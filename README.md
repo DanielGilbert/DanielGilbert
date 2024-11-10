@@ -1,6 +1,7 @@
 ### Hi there 👋
 Hi, I'm Daniel! 
 Founded in 1986, I'm a software developer at heart, and really love to build stuff. I love it even more if it benefits others.
+In 2024, I transitioned to the Dark Side by becoming a Scrum Master. A path I'm still following.
 
 Most of the stuff I build in my spare time is available for free.
 Besides writing consumer applications, I'm also interested in game programming, music, video editing and more. 🥳
