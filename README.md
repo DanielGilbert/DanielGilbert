@@ -10,10 +10,9 @@ Besides writing consumer applications, I'm also interested in game programming, 
 
 - [Sparky](https://github.com/DanielGilbert/Sparky): A friendly desk companion
 - [7D Mad Rogue Kart](https://strangepeoplegames.itch.io/7d-mad-rogue-kart): My very first game and submission to the 7DRL 2023
-- ~~[Radia](https://github.com/DanielGilbert/Radia): Radia is a directory listing server on steroids~~
 - [g5t.de](https://github.com/DanielGilbert/g5t.de): The repository for my private website
 - [kenBuddy](https://github.com/DanielGilbert/kenBuddy): A simple extension to make adding your work hours for kenjo.io easier
-- [PlattGPT](https://github.com/DanielGilbert/platt-gpt): A pun on the stubbornness and serenity of the inhabitants of Northern Germany - as such, only available in German. ~~Live version at [plattgpt.de](https://plattgpt.de)~~
+- [PlattGPT](https://github.com/DanielGilbert/platt-gpt): A pun on the stubbornness and serenity of the inhabitants of Northern Germany - as such, only available in German.
 - [dgMicMute](https://github.com/DanielGilbert/dgMicMute): A program which allows you to mute your microphone on Windows (now integrated in Windows itself, thus obsolete)
 - [CommonAlertingServer](https://github.com/DanielGilbert/CommonAlertingServer): A small server, that aims to provide a unified REST Api to CAP services around the world. Currently, only DWD warnings are implemented.
 - [SmallTune](https://github.com/DanielGilbert/SmallTune): My very first media player I wrote in 2008.
